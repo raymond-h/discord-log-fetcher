@@ -1,0 +1,29 @@
+{
+  "name": "discord-log-fetcher",
+  "description": "Out of the league!",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "author": "Raymond Hammarling",
+  "scripts": {
+    "lint": "eslint lib/ test/",
+    "pretest": "npm run lint",
+    "test": "echo not implemented && exit 1",
+    "watch": "onchange src/ -- npm run build && echo Done",
+    "dev": "npm run watch",
+    "prepublish": "npm run test"
+  },
+  "devDependencies": {
+    "eslint": "^3.15.0",
+    "onchange": "^3.2.1"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "discord.js": "^11.0.0",
+    "mkdirp": "^0.5.1",
+    "pify": "^2.3.0",
+    "ramda": "^0.23.0",
+    "rimraf": "^2.5.4",
+    "write-json-file": "^2.0.0"
+  }
+}
