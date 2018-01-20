@@ -1,6 +1,6 @@
 {
   "name": "discord-log-fetcher",
-  "description": "Out of the league!",
+  "description": "Discord bot that fetches logs for channels and gives you a ZIP of 'em",
   "version": "0.0.0",
   "license": "MIT",
   "main": "lib/index.js",
