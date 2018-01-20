@@ -28,5 +28,9 @@
     "progress-stream": "^2.0.0",
     "tempy": "^0.2.1",
     "through2": "^2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raymond-h/discord-log-fetcher"
   }
 }
