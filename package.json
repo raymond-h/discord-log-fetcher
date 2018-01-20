@@ -18,14 +18,20 @@
     "onchange": "^3.2.1"
   },
   "dependencies": {
+    "archiver": "^2.1.1",
     "bluestream": "^6.1.1",
     "co": "^4.6.0",
     "discord.js": "^11.0.0",
     "dotenv": "^4.0.0",
+    "fs-reverse": "0.0.3",
     "get-stream": "^3.0.0",
     "mkdirp": "^0.5.1",
     "pify": "^2.3.0",
+    "progress-stream": "^2.0.0",
+    "pumpify": "^1.4.0",
     "ramda": "^0.23.0",
-    "rimraf": "^2.5.4"
+    "rimraf": "^2.5.4",
+    "tempy": "^0.2.1",
+    "through2": "^2.0.3"
   }
 }
