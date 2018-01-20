@@ -20,6 +20,7 @@
   "dependencies": {
     "co": "^4.6.0",
     "discord.js": "^11.0.0",
+    "dotenv": "^4.0.0",
     "mkdirp": "^0.5.1",
     "pify": "^2.3.0",
     "ramda": "^0.23.0",
