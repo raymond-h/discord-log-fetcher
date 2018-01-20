@@ -23,6 +23,7 @@ npm start
 ## Usage in Discord
 
 For help: `@Bot help`
+
 To get logs: `@Bot logs <channel name> [<channel name>...]`
 
 Only administrators of the server (and the **bot owner**) can use the bot.
